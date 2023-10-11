@@ -1,0 +1,11 @@
+# ninja log v5
+0	18	1696974550190925239	holodexDesktop_autogen/timestamp	6879fb9cbd331760
+0	18	1696974550190925239	holodexDesktop_autogen/mocs_compilation.cpp	6879fb9cbd331760
+0	18	1696974550190925239	/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/holodexDesktop_autogen/timestamp	6879fb9cbd331760
+0	18	1696974550190925239	/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/holodexDesktop_autogen/mocs_compilation.cpp	6879fb9cbd331760
+18	22	1696974550198925089	holodexDesktop_autogen/EWIEGA46WW/qrc_resources.cpp	5f2b9a8973441013
+18	22	1696974550198925089	/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/holodexDesktop_autogen/EWIEGA46WW/qrc_resources.cpp	5f2b9a8973441013
+22	35	1696974550210924863	CMakeFiles/holodexDesktop.dir/holodexDesktop_autogen/mocs_compilation.cpp.o	760c328480c67cb1
+22	42	1696974550218924713	CMakeFiles/holodexDesktop.dir/holodexDesktop_autogen/EWIEGA46WW/qrc_resources.cpp.o	c2e7ec83cbbf497b
+23	1565	1696974551738896158	CMakeFiles/holodexDesktop.dir/UI/sources/main.cpp.o	1a602ad46973db31
+1566	1889	1696974552062890078	holodexDesktop	12702195481fea2d

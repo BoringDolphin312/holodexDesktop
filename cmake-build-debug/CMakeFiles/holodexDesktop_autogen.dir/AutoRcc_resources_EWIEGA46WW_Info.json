@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/holodexDesktop_autogen",
+	"CMAKE_BINARY_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop",
+	"CMAKE_SOURCE_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop",
+	"INCLUDE_DIR" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/holodexDesktop_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/CMakeFiles/holodexDesktop_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/Qt-6.2.4/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug/CMakeFiles/holodexDesktop_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/patrick/Documents/PersonalProject/holodexDesktop/resources.qrc",
+	"VERBOSITY" : 0
+}

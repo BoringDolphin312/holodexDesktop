@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5b3c8858c47d9fa3567c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "holodexDesktop",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "holodexDesktop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-holodexDesktop-Debug-505b499f7a691bf3516d.json",
+					"name" : "holodexDesktop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "holodexDesktop_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-holodexDesktop_autogen-Debug-4bad113beb18a958839e.json",
+					"name" : "holodexDesktop_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "holodexDesktop_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-holodexDesktop_autogen_timestamp_deps-Debug-9edfcdda42a6b2aa59ae.json",
+					"name" : "holodexDesktop_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/patrick/Documents/PersonalProject/holodexDesktop/cmake-build-debug",
+		"source" : "/home/patrick/Documents/PersonalProject/holodexDesktop"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
