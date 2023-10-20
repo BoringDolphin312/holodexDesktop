@@ -16,7 +16,7 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Widgets)
 
 include_directories(UI/headers)
 
-set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_SOURCE_DIR}/ui_files)
+set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_SOURCE_DIR}/UI/ui_files)
 
 file(GLOB GLOB_PROJECT_UI_FILES
         ${CMAKE_SOURCE_DIR}/UI/ui_files/*.ui
